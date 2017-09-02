@@ -1,0 +1,7 @@
+C:\Users\Iason Solomos\documents\visual studio 2015\Projects\NumbersToRomanNumeralsService\NumbersToRomanNumeralsService\bin\Debug\NumbersToRomanNumeralsService.exe
+C:\Users\Iason Solomos\documents\visual studio 2015\Projects\NumbersToRomanNumeralsService\NumbersToRomanNumeralsService\bin\Debug\NumbersToRomanNumeralsService.exe.config
+C:\Users\Iason Solomos\documents\visual studio 2015\Projects\NumbersToRomanNumeralsService\NumbersToRomanNumeralsService\obj\Debug\NumbersToRomanNumeralsService.ProjectInstaller.resources
+C:\Users\Iason Solomos\documents\visual studio 2015\Projects\NumbersToRomanNumeralsService\NumbersToRomanNumeralsService\obj\Debug\NumbersToRomanNumeralsService.csproj.GenerateResource.Cache
+C:\Users\Iason Solomos\documents\visual studio 2015\Projects\NumbersToRomanNumeralsService\NumbersToRomanNumeralsService\obj\Debug\NumbersToRomanNumeralsService.exe
+C:\Users\Iason Solomos\documents\visual studio 2015\Projects\NumbersToRomanNumeralsService\NumbersToRomanNumeralsService\obj\Debug\NumbersToRomanNumeralsService.pdb
+C:\Users\Iason Solomos\documents\visual studio 2015\Projects\NumbersToRomanNumeralsService\NumbersToRomanNumeralsService\bin\Debug\NumbersToRomanNumeralsService.pdb
